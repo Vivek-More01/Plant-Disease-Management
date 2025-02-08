@@ -8,6 +8,6 @@ In order to run online:
 
 
 OR
-1. Clone repoaitory using git clone https://github.com/Vivek-More01/Plant-Disease-Management in terminal
+1. Clone repository using git clone https://github.com/Vivek-More01/Plant-Disease-Management in terminal
 2. install tensorflow, streamlit, numpy and other libraries used in code
 3. Run streamlit run /content/Plant-Disease-Management/main.py in terminal
